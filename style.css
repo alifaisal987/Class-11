@@ -1,0 +1,20 @@
+/* div{
+    border: 10px solid rgb(0, 171, 238);
+    margin: 0 auto;
+    background-image: linear-gradient(red, yellow);
+    height: 500px;
+    border-radius: 50px;
+} */
+.container{
+    border: 1px solid black;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+}
+.box{
+    border: 3px solid red;
+    padding: 20px;
+}
